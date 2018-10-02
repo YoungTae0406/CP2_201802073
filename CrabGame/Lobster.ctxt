@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lobster\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Lobster\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=\r\n\ Check\ whether\ we\ are\ at\ the\ edge\ of\ the\ world.\ If\ we\ are,\ turn\ a\ bit.\r\n\ If\ not,\ do\ nothing.\r\n
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\r\n\ Randomly\ decide\ to\ turn\ from\ the\ current\ direction,\ or\ not.\ If\ we\ turn\r\n\ turn\ a\ bit\ left\ or\ right\ by\ a\ random\ degree.\r\n
+comment4.params=
+comment4.target=void\ lookForCrab()
+comment4.text=\r\n\ Try\ to\ pinch\ a\ crab.\ That\ is\:\ check\ whether\ we\ have\ stumbled\ upon\ a\ crab.\r\n\ If\ we\ have,\ remove\ the\ crab\ from\ the\ game,\ and\ stop\ the\ program\ running.\r\n
+numComments=5
